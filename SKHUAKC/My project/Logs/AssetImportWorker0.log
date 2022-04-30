@@ -1,0 +1,530 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.31f1 (6b54b7616050) revision 7034039'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Core' Language: 'ko' Physical Memory: 8051 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/user/SKHUAKC/My project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55843
+Successfully changed project path to: C:/Users/user/SKHUAKC/My project
+C:/Users/user/SKHUAKC/My project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 404.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.31f1 (6b54b7616050)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/SKHUAKC/My project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   
+    VRAM:     4025 MB
+    Driver:   27.20.100.8682
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56512
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008708 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 398.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.255 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2255ms)
+		BeginReloadAssembly (221ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1770ms)
+			LoadAssemblies (217ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (546ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (874ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (399ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (286ms)
+				ProcessInitializeOnLoadMethodAttributes (120ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006062 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 256.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.198 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4201ms)
+		BeginReloadAssembly (500ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (16ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (53ms)
+		EndReloadAssembly (3441ms)
+			LoadAssemblies (331ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1160ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (211ms)
+			SetupLoadedEditorAssemblies (1294ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (256ms)
+				BeforeProcessingInitializeOnLoad (285ms)
+				ProcessInitializeOnLoadAttributes (661ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
+				AfterProcessingInitializeOnLoad (21ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 2.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2744 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.1 MB.
+System memory in use after: 117.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3181.
+Total: 9.758600 ms (FindLiveObjects: 0.541400 ms CreateObjectMapping: 0.388100 ms MarkObjects: 8.678100 ms  DeleteObjects: 0.148300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/CartoonGuiIconPack/png
+  artifactKey: Guid(af279bf993d67934f87839f2fbd4cec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CartoonGuiIconPack/png using Guid(af279bf993d67934f87839f2fbd4cec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6d364f8312fb0aaee1eb4831be4016') in 0.027532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000799 seconds.
+  path: Assets/CartoonGuiIconPack
+  artifactKey: Guid(0a2919197a4283147949adf635a431d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CartoonGuiIconPack using Guid(0a2919197a4283147949adf635a431d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70ec5f5a55e4742b474ff015edd9cd0') in 0.012380 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51.760731 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-Sliced.png
+  artifactKey: Guid(71ebafeef3c03457483266a33ab2b270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-Sliced.png using Guid(71ebafeef3c03457483266a33ab2b270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ea08e4411f98851f91f00718d3ff46f') in 0.400825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-Top.png
+  artifactKey: Guid(eed45a33cd08446c8b88325cf82fc52f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-Top.png using Guid(eed45a33cd08446c8b88325cf82fc52f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1809652a82d8d22ff10af5a0b0652610') in 0.061688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-TopWithBorder.png
+  artifactKey: Guid(4b2a04fdbe0ef4d8da8f90eaca817cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-TopWithBorder.png using Guid(4b2a04fdbe0ef4d8da8f90eaca817cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50858912bcacf81ddc08543ec3f9aa89') in 0.070816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-TopWithBorder.png
+  artifactKey: Guid(a9716c16a44a94eed9b5c90fbf4d9bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-TopWithBorder.png using Guid(a9716c16a44a94eed9b5c90fbf4d9bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1507bf4f496c46ba43d87bf87ee59e') in 0.099864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000577 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Capsule.png
+  artifactKey: Guid(bd3cb4af8406d4436a2ae8c2aafe1f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Capsule.png using Guid(bd3cb4af8406d4436a2ae8c2aafe1f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4720ed190e1a7817bbfc67a079ccfd84') in 0.051982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000834 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-Top.png
+  artifactKey: Guid(16037dbd798344f57a526d53d48f5ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-Top.png using Guid(16037dbd798344f57a526d53d48f5ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a715b525ddce76caf760635f8aeeea') in 0.053706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleMask.png
+  artifactKey: Guid(87aaca0a643d54397ba969dab4fc8875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleMask.png using Guid(87aaca0a643d54397ba969dab4fc8875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '336ea944f911d78053f811db356c0369') in 0.052303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-SlicedWithBorder.png
+  artifactKey: Guid(cc35afd292fc349128b36a291fb3a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-SlicedWithBorder.png using Guid(cc35afd292fc349128b36a291fb3a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '600f97cdfd3edc6a1685d83d25fc157c') in 0.070246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png
+  artifactKey: Guid(48e93eef0688c4a259cb0eddcd8661f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png using Guid(48e93eef0688c4a259cb0eddcd8661f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f9d2c87602c9de665cd5edc8b46197') in 0.056040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001069 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Circle.png
+  artifactKey: Guid(ebe73ca9363db456bacf42c025bb4847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Circle.png using Guid(ebe73ca9363db456bacf42c025bb4847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8c39de7271b5a455345680f1bcb82c') in 0.042932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000712 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleWithBorder.png
+  artifactKey: Guid(4adeaf2d2b1c7417e89f026626d8264f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleWithBorder.png using Guid(4adeaf2d2b1c7417e89f026626d8264f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c5976af4148e7eb69b1e4a48d95fe6') in 0.057911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/SquareWithBorder.png
+  artifactKey: Guid(db750325989564987a34393247d883b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/SquareWithBorder.png using Guid(db750325989564987a34393247d883b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6609b4886f6a7b5e886870c4517a228') in 0.058032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamond.png
+  artifactKey: Guid(045b15ec09bba42448d89db77fa6f20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamond.png using Guid(045b15ec09bba42448d89db77fa6f20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219c897d45680a2c55bb4df6d0d2fb5f') in 0.070002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CapsuleWithBorder.png
+  artifactKey: Guid(34587324d412940a79d530020c957dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CapsuleWithBorder.png using Guid(34587324d412940a79d530020c957dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ad02565640520517df1e4abf7b01ce') in 0.063194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamondWithBorder.png
+  artifactKey: Guid(0d267bc78a0864eb48358689b29ed20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamondWithBorder.png using Guid(0d267bc78a0864eb48358689b29ed20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d4d89f411a6aa10865620de9ba94abd') in 0.052645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.162402 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatSmallA.png
+  artifactKey: Guid(336582a46774db741816235f145c750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatSmallA.png using Guid(336582a46774db741816235f145c750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4fecc8346b15c5c3ed511b5af985c9f') in 0.105724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatB.png
+  artifactKey: Guid(0c9c0122d52ac444498080a47019d0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatB.png using Guid(0c9c0122d52ac444498080a47019d0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6aece819e56074a52853198257da08b') in 0.092030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatSmallE.png
+  artifactKey: Guid(53eee918919b98c489ec9e7cb13232ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatSmallE.png using Guid(53eee918919b98c489ec9e7cb13232ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5979bf354cb1a6cf54a9f674d9ec14') in 0.097402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BugA.png
+  artifactKey: Guid(90d4656fa093a884198ea128adaab037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BugA.png using Guid(90d4656fa093a884198ea128adaab037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b077cfac264a3eed3b66b02024a6fd31') in 0.170704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatSmallB.png
+  artifactKey: Guid(849bb6125ad902f4493d33c1cbacce90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatSmallB.png using Guid(849bb6125ad902f4493d33c1cbacce90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cef0aaae66546dd98943213570d2a29') in 0.105696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BrainA.png
+  artifactKey: Guid(1962efabbb677b44ea09acda094262f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BrainA.png using Guid(1962efabbb677b44ea09acda094262f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f18e7f153e289e385ea9cad6f07349') in 0.157692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001396 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BrainE.png
+  artifactKey: Guid(9c040ba40d9df89438c100a694a820e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BrainE.png using Guid(9c040ba40d9df89438c100a694a820e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76bb3426d641ee30e1dfd66da0cdda50') in 0.147110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000940 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/ButterflyA.png
+  artifactKey: Guid(c4ef4b3283820274f9d5eff772190102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/ButterflyA.png using Guid(c4ef4b3283820274f9d5eff772190102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82912f95d82410ff21d4371c784f0e39') in 0.149689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000826 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BrainD.png
+  artifactKey: Guid(ec026daf0dcec1c438f675e2605d991c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BrainD.png using Guid(ec026daf0dcec1c438f675e2605d991c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b4b8142503329e7d63e1d53127139ee') in 0.146116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BugC.png
+  artifactKey: Guid(493903d0c73444743af1e77d26b92136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BugC.png using Guid(493903d0c73444743af1e77d26b92136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5214658ef4921e6adfef413f18e02c') in 0.178502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000863 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/ButterflyB.png
+  artifactKey: Guid(8907a435dff09104a81778c4572b4e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/ButterflyB.png using Guid(8907a435dff09104a81778c4572b4e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09a17e1c856aad2d0cb22904364624d') in 0.120124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatE.png
+  artifactKey: Guid(ab3e8d7527ff52b4bb7a8b13875151ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatE.png using Guid(ab3e8d7527ff52b4bb7a8b13875151ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dfc812612ac2b51298d928236521927') in 0.092351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/ChestA.png
+  artifactKey: Guid(6d0df163110ae424f909acf887f94f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/ChestA.png using Guid(6d0df163110ae424f909acf887f94f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9cfc37f86f4c0031e8b305e60a9b046') in 0.136033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CloudA.png
+  artifactKey: Guid(d112c495259ab114281a7e70d6d7ebb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CloudA.png using Guid(d112c495259ab114281a7e70d6d7ebb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ff9f1cbea6622a7551bc9a103b931ed') in 0.126138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000573 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/ChickenC.png
+  artifactKey: Guid(9ae48b8cd36a4fa4a8de8177bdc094f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/ChickenC.png using Guid(9ae48b8cd36a4fa4a8de8177bdc094f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ff7d12cb6f3a1f8d6343a25a3af3a5') in 0.113695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatD.png
+  artifactKey: Guid(23163d35123e990439193d4c8b8a31be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatD.png using Guid(23163d35123e990439193d4c8b8a31be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ada2fb0e6d4dbee96bc4fab457539f') in 0.093895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000834 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/ChickenB.png
+  artifactKey: Guid(31ce87929f339224a82e9333faedcab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/ChickenB.png using Guid(31ce87929f339224a82e9333faedcab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62935860beaba439f09d919f984c176') in 0.102725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatT.png
+  artifactKey: Guid(60e4ee8c942e40a4b971454a08700adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatT.png using Guid(60e4ee8c942e40a4b971454a08700adf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b746beb8fe8a7a95b4659506e93915f7') in 0.037850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BugD.png
+  artifactKey: Guid(a5943828c0169cf4e996c0070702ab88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BugD.png using Guid(a5943828c0169cf4e996c0070702ab88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb590a64548ba8850cd200be14228503') in 0.104806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatSmallC.png
+  artifactKey: Guid(dc5485b1da806334aa707061ddbf1b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatSmallC.png using Guid(dc5485b1da806334aa707061ddbf1b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e372f99a114f330c6781bd590cd7f38') in 0.067544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BrainC.png
+  artifactKey: Guid(e9dd76a44064a2a4182543bb3707e784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BrainC.png using Guid(e9dd76a44064a2a4182543bb3707e784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9404466d4437421af580558ffe4a5632') in 0.153344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BugE.png
+  artifactKey: Guid(23520d1e0a5d27a409a64af65fc6c466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BugE.png using Guid(23520d1e0a5d27a409a64af65fc6c466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e2299fbf8bb4f863d18ca3895e8654') in 0.176646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000838 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatF.png
+  artifactKey: Guid(ea585171228ad0b49820f75c712f92ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatF.png using Guid(ea585171228ad0b49820f75c712f92ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4f86c4a99ade06a16e8dc02948f992d') in 0.087313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/ChickenA.png
+  artifactKey: Guid(88d3e5589ddf54642b0be3b779aabd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/ChickenA.png using Guid(88d3e5589ddf54642b0be3b779aabd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '498261b992749f367ef407dbc323a777') in 0.120535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000648 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatSmallD.png
+  artifactKey: Guid(494f12668e635de4288601f5e39a2217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BatSmallD.png using Guid(494f12668e635de4288601f5e39a2217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3218872d6654eb0cb2adb8c53e9af12') in 0.100167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000555 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BeardA.png
+  artifactKey: Guid(91f88a08265de614ca911ad7d15ff836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BeardA.png using Guid(91f88a08265de614ca911ad7d15ff836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f464b3e86d1cee826edb5ca98c5f6a0b') in 0.089624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatC.png
+  artifactKey: Guid(a9569fc7a93d40d418ae597ab9dd4ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatC.png using Guid(a9569fc7a93d40d418ae597ab9dd4ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef5b70b64c4c326d3605563679692fb1') in 0.069813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BrainB.png
+  artifactKey: Guid(dddd3b80280d540428f7ce1b07e3c957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BrainB.png using Guid(dddd3b80280d540428f7ce1b07e3c957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beab19ab7900c4710e21dab7df0163fd') in 0.110753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatA.png
+  artifactKey: Guid(62aed0a42d0cd6e4a9380a837322be8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CatA.png using Guid(62aed0a42d0cd6e4a9380a837322be8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2ff88fcd503f2bdbfd11269bd83e87') in 0.069695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BeardB.png
+  artifactKey: Guid(ee616ca48381f574197b874b53fc1620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BeardB.png using Guid(ee616ca48381f574197b874b53fc1620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364a6f960e6bcc49cd4c035dba9dfaff') in 0.086854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/BugB.png
+  artifactKey: Guid(c4c0e7f730df9374d94e3d927930981e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/BugB.png using Guid(c4c0e7f730df9374d94e3d927930981e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b917558b6354c5534cd243cbca536cb9') in 0.132721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 87.458646 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CloudB.png
+  artifactKey: Guid(c63c0b57d90498f4b96782e49957660d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CloudB.png using Guid(c63c0b57d90498f4b96782e49957660d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce423a3505c0f00f85ae4fd5ea6e8f1') in 0.099500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CloudD.png
+  artifactKey: Guid(51554110f03d8834594f33830f04097e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CloudD.png using Guid(51554110f03d8834594f33830f04097e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac9e6badcdba4e3a9936d75d61b4c07') in 0.089747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CoffinA.png
+  artifactKey: Guid(be30b1f970f261147b9a865bf6fb7fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CoffinA.png using Guid(be30b1f970f261147b9a865bf6fb7fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a28c0c203b67b55ed5ef770dd0e037') in 0.120785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CloudC.png
+  artifactKey: Guid(fac51d2b2fb8e3d40bb1637c35f4854d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CloudC.png using Guid(fac51d2b2fb8e3d40bb1637c35f4854d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad003d2c405f95194a926e18a268dfd4') in 0.105114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.089429 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CoffinB.png
+  artifactKey: Guid(371b4b4200ba75c488e6889b7069fd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CoffinB.png using Guid(371b4b4200ba75c488e6889b7069fd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b5ed0edd4dcebf93aa51d6ada9f74ec') in 0.128981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/DiscA.png
+  artifactKey: Guid(b3561c0ab5f300140b9a96ff4e8c4ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/DiscA.png using Guid(b3561c0ab5f300140b9a96ff4e8c4ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67525fd59395678f7314802a38472b8b') in 0.062448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CoffinC.png
+  artifactKey: Guid(1458ab094a55fe14d81735e6aefba33f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CoffinC.png using Guid(1458ab094a55fe14d81735e6aefba33f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff69c4aee38c20e5fb90cb746fcd8356') in 0.109509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabE.png
+  artifactKey: Guid(594e15d0b5eeef54dafad0e102df072a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabE.png using Guid(594e15d0b5eeef54dafad0e102df072a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765604c782b7c04817b19df328f8f3f9') in 0.061163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabA.png
+  artifactKey: Guid(2f7b1b408d2cedd44baafac3d18cb42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabA.png using Guid(2f7b1b408d2cedd44baafac3d18cb42a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '769acd0a1d175ee6dd30f1de327866db') in 0.056862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabC.png
+  artifactKey: Guid(3b6fbc8ea76066f4fbdf949485d3c4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabC.png using Guid(3b6fbc8ea76066f4fbdf949485d3c4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31081a7388a3371608764e52118689fd') in 0.067932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CountA.png
+  artifactKey: Guid(3c3a29a727884844499b67527dba3c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CountA.png using Guid(3c3a29a727884844499b67527dba3c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4147434d7119b88c4b0c13b4ae65358') in 0.093491 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/DogB.png
+  artifactKey: Guid(481071bc151197b4fa9f7ba5ca576235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/DogB.png using Guid(481071bc151197b4fa9f7ba5ca576235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12eb51cbbdcc3f539556b7a453947b08') in 0.062414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CoffinD.png
+  artifactKey: Guid(3457c34dd72733d478e65f3ad0d0cb59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CoffinD.png using Guid(3457c34dd72733d478e65f3ad0d0cb59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f361f42417cc1a229d84bf9434ffbc76') in 0.122526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabD.png
+  artifactKey: Guid(8c6b6f765fff2b54994bbeb2e63852f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabD.png using Guid(8c6b6f765fff2b54994bbeb2e63852f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c5596ef18c76bb1a8c523bdc248860') in 0.073123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabF.png
+  artifactKey: Guid(d182ee2410fe65949b460804dbd17012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabF.png using Guid(d182ee2410fe65949b460804dbd17012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd035ee3076881532417c79afc318de84') in 0.065248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/DogA.png
+  artifactKey: Guid(2257454f6cf054b408b00c689de6775c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/DogA.png using Guid(2257454f6cf054b408b00c689de6775c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8bbf44f20312d3b69a9d47b681df01f') in 0.061645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/DogC.png
+  artifactKey: Guid(82dbaed2cb6ca9f4795dfea940d71d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/DogC.png using Guid(82dbaed2cb6ca9f4795dfea940d71d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1825af7fe7334f3c66999e3b85f7f63') in 0.064785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabB.png
+  artifactKey: Guid(2fcc33d09bee2b148bb545c4800a81de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PixelMobs/Visual/Sprite/Resources/Mob/CrabB.png using Guid(2fcc33d09bee2b148bb545c4800a81de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4195c85769d60096acc8c0458a08fd0') in 0.096071 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
