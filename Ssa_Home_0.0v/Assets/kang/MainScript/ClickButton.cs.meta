@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2d6cc0b10b6d9624295f15b2b0d12677
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DrawShop: {instanceID: 0}
+  - DrawWindow: {instanceID: 0}
+  - DrawImage: {instanceID: 0}
+  - Image1: {fileID: 21300000, guid: 25b10bf09c5c76747b63e00ad06d8a40, type: 3}
+  - Image2: {fileID: 21300000, guid: 7f7623c58b54b7a44aec4f121960604c, type: 3}
+  - Image3: {fileID: 21300000, guid: b8eb63bd7dd9c0843a32496f3dd421db, type: 3}
+  - Image4: {fileID: 21300000, guid: 92650e1a03cd24148879c95b643c675e, type: 3}
+  - Image5: {fileID: 21300000, guid: b6b61ce3d6dc56549be953cdb2842a90, type: 3}
+  - Image6: {fileID: 21300000, guid: 630617de2c959604e98c6c46d600765e, type: 3}
+  - Image7: {fileID: 21300000, guid: 40a44f357f10b25418f35d54edf7293f, type: 3}
+  - Image8: {fileID: 21300000, guid: 7eccf324213d5d84b8000478b4a9a2c6, type: 3}
+  - Image9: {fileID: 21300000, guid: 1c4095f34dba0254e90f049ce0327cdf, type: 3}
+  - Image10: {fileID: 21300000, guid: 29b36e9c229e4a847981ae289c207ddf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
